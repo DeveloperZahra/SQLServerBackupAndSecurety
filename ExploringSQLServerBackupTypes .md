@@ -74,7 +74,7 @@ Step 2 : Perform Backup Operations
 
 
 
-![](SQL.IMAGE/CopyOnlyBackup.png)
+![](SQL.IMAGE/CopyOnlyBackup.png) 
 
 
 
@@ -82,4 +82,6 @@ Step 2 : Perform Backup Operations
 
 
 ==============Part 3: Real-World Scenario Simulation==============
+
+1. Full Backup – Sunday at 2:00 AM
 
