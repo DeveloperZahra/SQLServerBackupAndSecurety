@@ -10,3 +10,5 @@
  |Copy-Only Backup| A copy-only backup is an independent backup that does not affect the normal backup sequence or chain.| *For ad-hoc backups without affecting backup sequence.| Like full or transaction log backup but does not disturb the backup chain| *Safe for testing or manual exports. *No impact on regular backup routines| Not suitable for log chain recovery. *Must be handled manually in restore planning|Software Development QA: Developers take a copy-only backup to test database changes without disrupting production backups.|
  | File/Filegroup Backup |A file or filegroup backup targets specific data files or filegroups within a database, instead of backing up the entire database.| *For very large databases with filegroups. *Used in piecemeal restore scenarios |One or more specific files/filegroups from the database.| *Efficient for large databases. *Enables partial restore (useful in large systems).| *Complex to manage and restore. *Requires detailed planning.| Enterprise Data Warehouse: Back up only the "Sales" filegroup nightly to reduce backup window.|
 
+
+
