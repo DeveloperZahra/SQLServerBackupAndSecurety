@@ -22,3 +22,23 @@
 | **Copy-Only**       | Varies   | Varies    | Same as full or log (independent)  | Ad-hoc backups without affecting schedule |
 | **File/Filegroup**  | Varies   | Varies    | Specific files or filegroups only  | Very large databases with modular design  |
 
+------------------------------------------------
+==================Part 2: Practice Tasks (using a test database like TrainingDB)==================
+
+Step 1: Create Test Database
+
+
+![](SQL.IMAGE/BeforeBackup.png) 
+
+
+Step 2 : Perform Backup Operations
+
+1. Full Backup 
+
+
+
+![] (SQL.IMAGE / FullBackup.png)
+
+
+
+	
