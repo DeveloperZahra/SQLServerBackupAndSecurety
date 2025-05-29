@@ -1,10 +1,16 @@
-﻿namespace ExploringSQLServerBackupTypes
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
-    }
-}
+﻿
+
+Step 2 : Perform Backup Operations
+
+1. Full Backup 
+
+
+
+![] (SQL.IMAGE / FullBackup.png)
+
+
+2.Insert New Record(simulate data change)
+
+
+
+! [](SQL.IMAGE / InsertValue.png) 
