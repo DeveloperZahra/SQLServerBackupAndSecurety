@@ -36,8 +36,8 @@ Step 2 : Perform Backup Operations
 1. Full Backup 
 
 
+![] (SQL.IMAGE /FullBackup.png)
 
-![] (SQL.IMAGE / FullBackup.png)
 
 
 
@@ -45,7 +45,15 @@ Step 2 : Perform Backup Operations
 
 
 
-! [](SQL.IMAGE / InsertValue.png) 
+! [](SQL.IMAGE /InsertValue.png) 
+
+
+
+3. Differential Backup
+
+
+
+! [](SQL.IMAGE /InsertValue.png) 
 
 
 
