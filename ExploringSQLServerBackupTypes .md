@@ -41,4 +41,12 @@ Step 2 : Perform Backup Operations
 
 
 
+2.Insert New Record(simulate data change)
+
+
+
+! [](SQL.IMAGE / InsertValue.png) 
+
+
+
 	
