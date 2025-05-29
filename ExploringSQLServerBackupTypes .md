@@ -40,7 +40,6 @@ Step 2 : Perform Backup Operations
 
 
 
-
 2.Insert New Record(simulate data change)
 
 
@@ -53,8 +52,31 @@ Step 2 : Perform Backup Operations
 
 
 
-! [](SQL.IMAGE /InsertValue.png) 
+! [](SQL.IMAGE /DifferentialBackup.png) 
 
 
 
-	
+4. Transaction Log Backu
+
+* First make sure Recovery Model is FULL
+
+
+! [](SQL.IMAGE /TransactionLogBackup.png) 
+
+* Now backup the log
+
+
+! [](SQL.IMAGE /backupTheLog.png) 
+
+
+5. Copy-Only Backup 
+
+
+
+! [](SQL.IMAGE /CopyOnlyBackup.png)
+
+
+
+
+==============Part 3: Real-World Scenario Simulation==============
+
