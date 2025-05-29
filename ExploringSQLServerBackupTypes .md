@@ -36,7 +36,7 @@ Step 2 : Perform Backup Operations
 1. Full Backup 
 
 
-![] (SQL.IMAGE /FullBackup.png)
+![](SQL.IMAGE/FullBackup.png)
 
 
 
@@ -44,7 +44,8 @@ Step 2 : Perform Backup Operations
 
 
 
-! [](SQL.IMAGE /InsertValue.png) 
+![](SQL.IMAGE/InsertValue.png) 
+
 
 
 
@@ -52,7 +53,7 @@ Step 2 : Perform Backup Operations
 
 
 
-! [](SQL.IMAGE /DifferentialBackup.png) 
+![](SQL.IMAGE/DifferentialBackup.png) 
 
 
 
@@ -61,19 +62,21 @@ Step 2 : Perform Backup Operations
 * First make sure Recovery Model is FULL
 
 
-! [](SQL.IMAGE /TransactionLogBackup.png) 
+![](SQL.IMAGE/TransactionLogBackup.png) 
 
 * Now backup the log
 
 
-! [](SQL.IMAGE /backupTheLog.png) 
+![](SQL.IMAGE/backupTheLog.png) 
 
 
 5. Copy-Only Backup 
 
 
 
-! [](SQL.IMAGE /CopyOnlyBackup.png)
+![](SQL.IMAGE/CopyOnlyBackup.png)
+
+
 
 
 
